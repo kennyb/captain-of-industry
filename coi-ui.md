@@ -32,7 +32,12 @@
 - ability to move around and change the designation like I can when editing a polygon in the map editor: (click on circle to split line and move vertices
 	- probably this is a change in the designation code which is just a bounding box calculation, but a polygon also has a bounding box around it, and so if the collision is inside the bounding box and the designation is also a polygon, then do a second more expensive collision on the polygon
 
+
 ### notifications
 - there was a new icon added to keep all new goals hidden, but it takes up even more screen space -- when I think a more intuitive design would be to just remember if the goal has been closed, and when a new one shows up, the player can just close it, and it stays closed (turns yellow when the goal is met and is ready to be collected)
 
+
 ### icons and things
+
+### dialog boxes
+- when renaming a machine/storage, if I click away from the dialog (and it closes), then it doesn't change the name (I have to remember to press enter or press the save button). when closing the dialog, it should save the name automatically.
