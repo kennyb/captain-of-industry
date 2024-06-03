@@ -18,7 +18,6 @@ I also think that I want to research glass smelting and get a quartz contract be
 	there's this thing that I sorta have against using uranium for some reason. the base that I see in the future has lots of pumps and dumps to turn LPS into clean water -- then combine that with hydrogen to get power -- and more clean water. also, it seems that I won't be able to afford even the slighest amount of radiation because of how much it (and other types of pollution) affects health. it's got to be hydrogen all of the way.
 
 ### 2024-06-03 13:31 - start over lol
-- diesel priority balancer
 - upgrade sw water pipe + put balancer
 - run diesel and fertilizer/water pipe in front of the shipyard.
 - fixup farm pipes
