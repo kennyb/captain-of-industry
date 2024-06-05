@@ -23,3 +23,7 @@ I also think that I want to research glass smelting and get a quartz contract be
 - fixup farm pipes
 - build 2 chem plants and preferrably 2-3 mixers (one for slag and other for fertilizer)
 - move bakery
+
+### 2024-06-04 10:51 - start over one more time
+
+so, playing coi while stoned is a most difficult task. I realise I need to just start over. so I'm starting over from 0159-02-17 -- we'll see how it goes. gonna try and remember some of the todo items. also, btw, it's a LOT easier to type qwerty, as well... that took me so long to type yesterday...
