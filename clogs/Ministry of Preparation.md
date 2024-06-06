@@ -38,3 +38,16 @@ so, playing coi while stoned is a most difficult task. I realise I need to just 
 - build the other two science labs and just coast for a while, while research is getting done
 
 this is kinda a pivotal moment, because on one side, I want to boost science and coast for a while, but I don't think that I can, actually. I'm probably going to have to come back and do the techs that I missed a little bit later (it only costs a little steel and some wood), because I really need: wastewater treatment, exhaust scrubbing, and electrolysis (to split the excess amonia). we'll see. I'll try both probably
+
+### 2024-06-06 15:42 - I think I got this (0166-04-04)
+
+I really feel good about my progress yesterday (it really helps not being stoned). I managed to get the 6th farm built, and get fertilizer into them. I also got to stable trucks for a bit, but it went away pretty quickly. though it says "extremely busy", stuff is getting delivered pretty fast even with P14 constructions. it seems that the "extremely busy" is counting all of the dump jobs of rock in the shipyard and ore sorters -- which is quite a few: I had 5.7k rock 10ya, and now only 2.1k.
+- research belts mk2 (so that I can have more than 2.5 AS3 creating CP1 at a time, reducing my slag dumping, and also more slabs for paving)
+- add limestone, iron, and coal diggers 
+- get T3 going, and research:
+	- wastewater treatment (water pollution is -9) 
+	- exhaust filtration (air pollution is -13)
+	- housing 3 (need more pops for more stuff; food isn't an issue anymore)
+- run water pipes down the middle so that they aren't going on top of copper mountain, and build an ore sorter for copper and iron (so trucks don't have to drive so far)
+- move some of the sw storages over to heavy oil
+- move the bakery (to put in 2 more housing modules)
