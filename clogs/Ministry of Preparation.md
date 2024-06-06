@@ -30,11 +30,11 @@ so, playing coi while stoned is a most difficult task. I realise I need to just 
 
 ### 2024-06-05 11:18 - this time for reals (0160-06-02)
 
-- coal belt over to desals (save trucks driving distance, and I can use the space in front of desals for something else)
-- turn on gw pumps to full and use that water preferentially to the desal (save coal)
-- delete two of the diesel generators and put in a bucket for light oil (so I know when to turn on and off the hp turbines to expend the excess steam)
+- ~~coal belt over to desals (save trucks driving distance, and I can use the space in front of desals for something else)~~
+- ~~turn on gw pumps to full and use that water preferentially to the desal (save coal)~~
+- ~~delete two of the diesel generators and put in a bucket for light oil (so I know when to turn on and off the hp turbines to expend the excess steam)~~
 - run water pipes down the middle so that they aren't going on top of copper mountain
-- put in sulfur bucket and mixer to make acid up top
+- ~~put in sulfur bucket and mixer to make acid up top~~
 - build the other two science labs and just coast for a while, while research is getting done
 
 this is kinda a pivotal moment, because on one side, I want to boost science and coast for a while, but I don't think that I can, actually. I'm probably going to have to come back and do the techs that I missed a little bit later (it only costs a little steel and some wood), because I really need: wastewater treatment, exhaust scrubbing, and electrolysis (to split the excess amonia). we'll see. I'll try both probably

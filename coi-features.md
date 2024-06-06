@@ -10,7 +10,8 @@
 - in new game on mouseover of the resource, put thr name and the quantity (ex. "Sand 110K")
 - in save/load game dialog, next to "+NEW SAVE" also add "Rename" -- which allows me to rename the save
 	- workaround is to click "Show in folder" button and rename it in windows explorer
-
+- notification when digger is complete in vehicle depot
+- press a button (f?) to override the "incompatible port"
 
 ### bigger things
 - inside of the island folder, save a replay file, which keeps track of every action the player makes.
