@@ -43,11 +43,15 @@ this is kinda a pivotal moment, because on one side, I want to boost science and
 
 I really feel good about my progress yesterday (it really helps not being stoned). I managed to get the 6th farm built, and get fertilizer into them. I also got to stable trucks for a bit, but it went away pretty quickly. though it says "extremely busy", stuff is getting delivered pretty fast even with P14 constructions. it seems that the "extremely busy" is counting all of the dump jobs of rock in the shipyard and ore sorters -- which is quite a few: I had 5.7k rock 10ya, and now only 2.1k.
 - research belts mk2 (so that I can have more than 2.5 AS3 creating CP1 at a time, reducing my slag dumping, and also more slabs for paving)
-- add limestone, iron, and coal diggers 
+- ~~add limestone, iron, and coal diggers~~
 - get T3 going, and research:
 	- wastewater treatment (water pollution is -9) 
 	- exhaust filtration (air pollution is -13)
 	- housing 3 (need more pops for more stuff; food isn't an issue anymore)
 - run water pipes down the middle so that they aren't going on top of copper mountain, and build an ore sorter for copper and iron (so trucks don't have to drive so far)
-- move some of the sw storages over to heavy oil
-- move the bakery (to put in 2 more housing modules)
+- ~~move some of the sw storages over to heavy oil~~
+- ~~move the bakery (to put in 2 more housing modules)~~
+
+#### 2024-06-06 23:19 - got some of it done
+
+I didn't make it to T3 at all, and it seems that I'll probably just complete all of the research before moving to T3, because I need to kill a bunch of pirates. I still haven't found the next oil rig yet, and I think I may cheat to find it by remembering where it is and then reloading the game. so far I've found a sulfur mine and a coal mine... lol. that will only help me out a little bit though, because when I closed the game just now (0180-06-23), I had enough crude, and 850 pops, so everything is pretty good, just I was making stupid mistakes like forgetting to put the limestone digger back on after the bucket emptied... so, time to sleep :)
