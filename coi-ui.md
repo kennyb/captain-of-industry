@@ -9,6 +9,7 @@
 	- if I just ran out of crude: "Tip #3 If you're running low on crude oil, try using your ship to explore other islands" (???)
 - start the game paused (first tutorial unpause the game?)
 - when unity building things by dragging a rectangle, highlight the things that will be built in green (it's often times I notice only after releasing the mouse button that it only built half of it).
+- food estimation should look at food storage inside of markets + all connected storages
 
 ### map editor
 - the publish icon is of a paper airplane, which gives me the sense of "play/test this map" (like I would test the paper airplane by throwing it), but the text says "publish" -- which is confusing, because I didn't want to publish my map to coi-hub just yet, just test it.

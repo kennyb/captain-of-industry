@@ -1,8 +1,6 @@
 # coi features
 
 ### little things
-- ability to drag trucks around in vehicle depot queue
-- ability to drag ports around in the materials sorter (the dropdown doesn't provide much info where the port is, and doesn't update until I deselect & reselect)
 - click on unbuilt loose/flat lift and have up/down arrows in the popup window allowing me to raise/lower it
 - automatically connect two belt slices, just the same as if I connect a pipe/belt where the slices meet, and then remove the belt/pipe, so that they join again.
 - pin a window, so it stays open
@@ -10,8 +8,14 @@
 - in new game on mouseover of the resource, put thr name and the quantity (ex. "Sand 110K")
 - in save/load game dialog, next to "+NEW SAVE" also add "Rename" -- which allows me to rename the save
 	- workaround is to click "Show in folder" button and rename it in windows explorer
-- notification when digger is complete in vehicle depot
-- press a button (f?) to override the "incompatible port"
+- notification when excavator is complete in vehicle depot
+- notification when truck assigned to box/bucket has no more jobs
+- press a button (f?) to override the "incompatible port" (also nice if it could override "start and end are connected to the same transport)
+- let fuel station trucks deliver fuel to fuel depot for building trucks (also delver to tanks and any other diesel request)
+- ability to drag trucks around in vehicle depot queue
+- ability to drag ports around in the materials sorter (the dropdown doesn't provide much info where the port is, and doesn't update until I deselect & reselect)
+- when a digger is picking next designation, pick the nearest one *based on path length*, cause sometimes they really drive quite a distance to go when sometimes an available designation is right next to them
+
 
 ### bigger things
 - inside of the island folder, save a replay file, which keeps track of every action the player makes.
