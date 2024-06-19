@@ -1,5 +1,10 @@
 # coi features
 
+### essential things (IMO)
+- ability to tell trucks to prioritise jobs based on distance over priority (for example a truck should continue to extract parts from the deconstructing building in front of him repeatedly, instead of driving to the other side of the map to something that is "higher priority"). implementation ideas:
+	- (in general truck options) the ability to elevate jobs that are [<.5km] away by [5] priorities, [.5-1km] away by [3] priorities, [1-2km] away by [1] priorities (etc).
+	- (in general truck options), set how much of the fleet will prioritise nearest jobs
+
 ### little things
 - click on unbuilt loose/flat lift and have up/down arrows in the popup window allowing me to raise/lower it
 - automatically connect two belt slices, just the same as if I connect a pipe/belt where the slices meet, and then remove the belt/pipe, so that they join again.
