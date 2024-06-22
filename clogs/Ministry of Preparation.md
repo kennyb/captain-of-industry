@@ -76,3 +76,11 @@ the poop problem wasn't that big of a deal -- and it was only a slight reduction
 - put in a bunch of exhaust scrubbers on the dock (start with the boilers and the diesel generators)
 - add refinery stage 3 and tank the naptha until cracking research is done (fg outputs CO2 which is less pollution that light oil)
 - desal the scrubber's steam into water
+
+### 2024-06-22 03:34 - coal and exhaust scrubbing (0216-08-04)
+
+turns out the refinery upgrades were the thing that took my time up. I also [built a spreadsheet](/spreadsheets/refineries.ods) to calculate the requirements for my needs. the way that I'm going to do it is (in addition to the scrubbing, I'm going to convert the majority of diesel into naptha >> fuel gas >> hydrogen), and use desal units and hydrogen boilers to provide water and power to the town and stuff (each setup uses 148 pops, generates 7MW, ~10NH3 for fertilizer, and ~96 water) -- meaning each module can run farms for prolly another 2k pops (haven't done the maths yet). I'm going big (like my goal is 50k+ pops) and I'm just gonna run on massive amounts of oil for gold contracts (probably -- or at least until that giant gold mountain is gone), and use that massive oil import to just go full hydrogen setup. I think that's realstically the only way I'll be able to do something with such a difficult pollution. I may try going nuclear in the future, but for now (while I'm doing so much smelting), I want to have a power source that's zero pollution (or nearly zero until I get CO2 to graphite research).
+in addition to creating the spreadsheet, I managed to triple my electronics output -- and where the existing electronic smelters are, I now have space to expand concrete if I need to (to keep up with the slag output, I may want to). I also managed to dramatically increase cp2 production which is good cause I need a lot of those.
+tonight's tasks are going to be:
+- cement for coal contract
+- actually getting exhaust scrubbing going.
