@@ -84,3 +84,7 @@ in addition to creating the spreadsheet, I managed to triple my electronics outp
 tonight's tasks are going to be:
 - cement for coal contract
 - actually getting exhaust scrubbing going.
+
+### 2024-06-22 22:10 - coal and exhaust scrubbing (0216-08-04)
+
+do over. I was prett tired last night, so I didn't really make much progress at all. the coal issue is starting to loom large, so I need to get the cement for coal contract started -- and of course the exhaust scrubbing will make my water problems disappear. after that's done, I really need to find the quartz for vp2 import contract and start working that one out (I haven't even found a quartz mine yet). not sure how I'm gonna work that one out yet, cause until I can get more pops, I may need to fill in the coal mine temporarily for more town space and get coal from contracts. the other thing I'm strongly considering is converting my farms to do only wheat and for the second category, go with chickens (cause I'll have plenty of water and lots of extra wheat (which is the best conversion to animal feed)).
