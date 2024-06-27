@@ -96,3 +96,15 @@ the serious issue of not having enough pops is really killing me. the only way t
 ### 2024-06-23 17:55 - move farms over by one and do heavy oil cracking (0220-04-02)
 
 I decided that my best bet is to delete the two farms next to the town (giving space for 8 more housing modules (1040 more pops)). in order to feed them I'm just gonna feed them bread for now (until I have enough water for chickens). then, the whole space where the farms used to be will become an only-truck-zone (OTZ), which will allow me to run a bunch of exhaust pipes at hight 2 all along the town, and leave only in front of the shipyard able to pass cause I'll still need to get sand from the beach over there (and also clean up the trash/slag). then, meanwhilst trying to setup the cement for coal contract (which will need a lot of pops (120+ at my current rate of spending coal)), I've got to get heavy oil cracking and the water system converted from FG over to hydrogen (more efficient and less pollution).
+
+### 2024-06-24 01:01 - dover no wood (0208-10-11)
+
+I really need to increase my forestry by a lot, it turns out. I ran into a situation where I'm completely without trees in 0233, which means I need a whole lot of them planted ~20y before (hence why I'm going back to 0208). the plan to convert them over to only bread was pretty successful (apart from a few dieoffs during flu season) and really gave me a lot of extra capacity on the farms -- so I'll do that. I'm also going to make the transition to another copper build much sooner as well, as that also seems to be quite successful. also the coal import contract really seemed to work pretty well. here's the list of things to do (prolly not tonight, but generally):
+- go up to 5 tree planters and expand forestry
+- convert pops over to only bread (and the rest saplings)
+- move copper smelting and electronics over to the side there
+- move rubber upstairs
+- try to get coal import contract a bit sooner
+- once again try and get scrubbing to work
+- expand out farms to the right with rock dumping instead of working on the front pier
+
