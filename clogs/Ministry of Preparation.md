@@ -130,3 +130,11 @@ after a number of tight spots (like gettting naptha cracked), the game went real
 
 I noticed a huge booboo where around 0215-04-03, I loaded the crew on the ship, and I vaguely remember taking out some pirates, but in the process of reloading, I must have forgot to send the ship out again (this is a perfect case where [pragtical-coi](/pragtical-coi.md) would come in handy). so with an extra 35 workers, all the stuff I did yesterday would be much easier (for example I don't need to pause the cargo ship every time he leaves to save 22 workers, when I have 35 sitting in the ship doing nothing (lol)). so I'm just gonna go way back and redo it. it'll be *a lot* easier this time... lol
 turns out the last time I had that going was "naptha cracking 4" (0215-02-05), which is quite a ways back. the previous save to that one is "naptha cracking 3" (0214-12-20) -- a very long time ago -- so I'm actually contemplating going back further -- like say back to when I was doing city poop -- and move that forward a bit, because it'd be really nice to have a 2-3 tile gap between the poop facility and the town (to run the exhaust pipes through). it also allows me the opportunity to run rubber creation up to the top much earlier too. not sure yet what I'll do. gonna try this one for a bit.
+
+### 2024-07-01 02:51 - city poop once again
+
+looking at it, I feel pretty good about going all the way back to "city poop 10" (0200-06-12) and starting from there. I rearranged the pipes so that 9 pipes/belts can make it through the front of the town now, which means that I'm gonna try and get scrubbing up much faster this time. here's the general overview
+- after poop isn't being dumped into the sea anymore, convert the pops over to bread and water diet (no more veg means faster planting of saplings and more forestry)
+- move the bakery earlier
+- get desal research next and scrub exhaust for farm water
+- move rubber up top and expand copper faster
