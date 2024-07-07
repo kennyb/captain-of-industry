@@ -44,3 +44,7 @@
 - turn off power generator (save steam) and flow all naptha over to get cracked
 - upgrade sw pipe between units
 - set notification for FG tank (and upgrade it)
+
+----
+
+upgrade boiler/fg pipe
