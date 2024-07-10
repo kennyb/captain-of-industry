@@ -13,3 +13,9 @@
 - vehicles often times calculate distances based on the diagonal, insatead of the actual path that they need to take, so a few machines (or mountains) in the way will cause them to take really long routes for something they think is short (usually these problems can be mitigated by setting the export routes on the tower, so it's not as big of an issue)
 
 ideally trucks should stay in their location and do jobs around there. for example, in the map I'm playing (armageddon), I have some jobs downstairs, and a bunch of jobs upstairs. trucks don't need to go up and down the hill all the time. the only things they should be doing going up and down the hill are bringing limestone down and sulfur/coal up -- that's it. however, I see trucks running up and down all the time because the system is based on priority.
+
+another thing that'd really help vehicles being more optimised would be for a truck to calculate the whole route from each waypoint to another (let's say I pick up 20 cp1 and deliver 5 to a location), then since I still have cargo that can be carried, I carry on another 5 to another location and continue on. or, for example, a petrol truck should never return back to base with fuel. if there are other excavators in any range (or any item on the main diesel requests that's nearby), he should go top them up before returning home.
+- pick up maximum load, assuming that I'll deliver to one of the locations.
+- pick the nearest location, and subtract load, then (if load remains) continue on to next nearest.
+
+that'll result in a route that has a few waypoints in it, but it'll be pretty optimal.

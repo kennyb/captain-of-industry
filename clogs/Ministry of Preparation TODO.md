@@ -47,4 +47,12 @@
 
 ----
 
+trees for woodcutter
+chlorene notification
+import iron bucket
+upgrade coal belts
+fix steel smelter
+move one copper to iron temporarily
+delete all surface designations
+copper belt
 upgrade boiler/fg pipe

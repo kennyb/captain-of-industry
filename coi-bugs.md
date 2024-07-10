@@ -11,3 +11,6 @@
 	- 
 - if I pause the vehicle depot right after a truck builds (before the animation completes), it will just sit on the driveway even though there are jobs
 - (!!!) make a pipe and connect annother to it. build one of the pipes with unity. delete the other pipe and upon removal of the connector, the pipe will have lost both the parts, the unity and the under construction status (it goes back to being white and not constructed)
+
+### small things
+- I can click on recover truck forever costing me 0.2 unity each time
