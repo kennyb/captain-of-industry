@@ -8,7 +8,9 @@ however, after a point -- the game gets really easy, so it's no longer a challen
 
 ### Captains Logs
 
-- [Ministry of Preparation](/clogs/Ministry%20of%20Preparation.md) + [TODO](/clogs/Ministry%20of%20Preparation%20TODO.md) (*saves coming as soon as I can figure out the commands to add them as git commits with the file modified timestamp*)
+(*save files coming as soon as I can figure out the commands to add them as git commits with the file modified timestamp*)
+
+- [Ministry of Preparation](/clogs/Ministry%20of%20Preparation.md) + [TODO](/clogs/Ministry%20of%20Preparation%20TODO.md)
 	- Armageddon map (insane starting location, NEPTUNE DIFFICULTY)
 	- going well. I feel like I've beat it 3 different ways now
 - [Abandoned Expanse](/clogs/Abandoned%20Expanse.md)
@@ -18,6 +20,8 @@ however, after a point -- the game gets really easy, so it's no longer a challen
 
 
 ### NEPTUNE DIFFICULTY
+
+![NEPTUNE DIFFICULTY](img/neptune-difficulty.png)
 
 this is a setting I use. it's admiral difficulty, PLUS
 - 100% increased construction costs
