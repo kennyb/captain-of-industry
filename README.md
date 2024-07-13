@@ -1,0 +1,41 @@
+# Captain Of Industry
+
+hi, my name is kenny! I'm a pretty serious/casual coi player. I really like the game, and it inspires a lot of thoughts while I'm playing -- so I write them down here.
+
+my play style is a bit different than most; I play usually with [all of the difficulty settings maxed out](#neptune-difficulty), and I enjoy the challenge of trying to figure out a way to get to a point where I'm stable.
+
+however, after a point -- the game gets really easy, so it's no longer a challenge -- and it's about that time I usually stop playing.
+
+### Captains Logs
+
+- [Ministry of Preparation](/clogs/Ministry%20of%20Preparation.md) + [TODO](/clogs/Ministry%20of%20Preparation%20TODO.md) (*saves coming as soon as I can figure out the commands to add them as git commits with the file modified timestamp*)
+	- Armageddon map (insane starting location, NEPTUNE DIFFICULTY)
+	- going well. I feel like I've beat it 3 different ways now
+- [Abandoned Expanse](/clogs/Abandoned%20Expanse.md)
+	- You Shall Not Pass map (normal start, NEPTUNE DIFFICULTY)
+	- not much work done on it. after realizing the time investment necessary, I've focused my time on Ministry of Preparation insread
+
+
+
+### NEPTUNE DIFFICULTY
+
+this is a setting I use. it's admiral difficulty, PLUS
+- 100% increased construction costs
+	- everything costs double from captain difficulty and 75% more than admiral.
+	- this requires careful planning to ensure machines are close enough that belt costs aren't enormous 
+- 50% increased maintenance consumption
+	- 25% more than admiral.
+	- extra electronics 1 requirement for maintenance makes cp2 production a lot more difficult in the earlygame, a quick transition to steel for mechanical parts.
+- 30% increased fuel consumption
+	- 15% more than admiral.
+	- requires staying with blue trucks for a long while, and transporting materials with belts instead of trucks
+- 40% increased settlement consumption
+	- 20% more than admiral.
+	- more food consumption is a real problem, and requires a quick transition to bread once wheat is researched.
+- 100% pollution impact
+	- 75% more than admiral.
+	- the increased pollution effects requires immediate research of wastewater treatment, exhaust scrubbing, and hydrogen vehicles, otherwise everyone is sick and dying all the time (clinic will prolly help, but it's so far down the research tree, it's easier just to not pollute)
+- 80% increased starting resources
+	- without the extra resources I don't think it's possible, cause everything is so much more expensive (though, it also makes it a bit easier because the starting oil reserve is a bit bigger)
+- no dumping anything except rock into the ocean
+	- I want to live on a clean island, so waste has to be dumped on the ground in earlygame, then cleaned up and burnt later. no building piers out of waste either because (IRL) waste decomposes and isn't a stable foundation to build on... loose rock isn't either, but we'll pretend it's held together with cement :)
