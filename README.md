@@ -42,7 +42,7 @@ this is a setting I use. it's admiral difficulty, PLUS
 - no dumping anything except rock into the ocean
 	- I want to live on a clean island, so waste has to be dumped on the ground in earlygame, then cleaned up and burnt later. no building piers out of waste either because (IRL) waste decomposes and isn't a stable foundation to build on... loose rock isn't either, but we'll pretend it's held together with cement :)
 
-### thoughts and ideas
+### Thoughts and Ideas
 
 - [some bugs I've seen](/coi-bugs.md)
 	- I decided to put them here because I was opening too many "issues" (hate that word) [on github](https://github.com/MaFi-Games/Captain-of-Industry-issues/issues/created_by/kennyb), and I felt like it was getting too much. there are just too many to make an issue for all of them -- so I mostly stopped making more "issues" for them.
@@ -52,4 +52,4 @@ this is a setting I use. it's admiral difficulty, PLUS
 	- some of them are on the [coi suggestions/ideas page](https://ideas.captain-of-industry.com/) and some are not. one day I'll try and add them.
 - [some thoughts I had on the game](/coi-thoughts.md) and some [unrelated ones too](/unrelated-thoughts.md)
 - [some comments/improvements to the ui](/coi-ui.md)
-- [pragtical coi](/pragtical-coi.md) -- a feature that I wrote about while stoned one day about how coi playthough can be thought of like a timeline, and as the timeline is optimised, it's like using a TAS for speedrunning, where the optimal flow for a streamer speedrunner can be practised and improved upon before the performance.
+- [pragtical coi](/pragtical-coi.md) -- a feature that I wrote about one day about how coi playthough can be thought of like a timeline, and as the timeline is optimised, it's like using a TAS for speedrunning, where the optimal flow for a streamer/speedrunner working on a segment can be practised and improved upon before the performance.
