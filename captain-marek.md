@@ -14,11 +14,11 @@ and that's it :) I don't recommend making an excel clone, so prolly cell formatt
 
 the other thing I noticed in your previous stream is that someone was asking about a thing that was difficult -- and you showed them that they can just customize the difficulty to turn that off. I thought that was a great suggestion, but it's not really very obvious to the player. that could be improved by perhaps a tip on the loading screen (or some interactive way to adjust the difficulty during the loading screen (cause afaik, it doesn't require a reload)).
 another thing that I was thinking about for users, is to make the tips a little bit more relevant as well: so, if right before the loading screen, a bunch of vechicles were out of fuel, "Tip #11 - make sure you have enough crude oil, or else your vehicles will run out of fuel and your logistics network grinds to a halt" -- or if I ran out of food right before loading "Tip #12 - make sure you have enough food, or else your pops will starve" -- stuff like that to help the player more easily identify improvements they could make. well, let's say that 4 loads in a row, they run out of food, displaying that tip or another more helpful one ("Tip #13 - farms require a constant source of water to grow properly and not dry out") -- that tip may not actually be that helpful, so maybe show the difficulty setting to adjust from dry to normal or wet, and the farms yield one -- so that they can adjust it right there while loading and try it out (they can always reload)
-finally, I'd like to mention that the UI for the customize difficulty is a bit strange with all of the dropdowns. I like that red is hard, grey is normal, and green is easy -- but I want to see at a glance what kind of difficulty I'm looking at without needing to click on the dropdown. so, I might suggest instead a slider bar where left is green and right is red -- and as I drag it, the text below/above it changes to the value:
-
+finally, I'd like to mention that the UI for the customize difficulty is a bit strange with all of the dropdowns. I like that red is hard, grey is normal, and green is easy -- but I want to see at a glance what kind of difficulty I'm looking at without needing to click on the dropdown. so, I might suggest instead a slider bar where one side is green and the other is red -- and as I drag it, the text below/above it changes to the value:
+```
 |o----|
-  Dry
-|----o|
   Wet
-
+|----o|
+  Dry
+```
 it just feels easier and less resistance to change or look at the other values if I can drag a slider (with color feedback) vs 2 clicks per option using a dropdown
