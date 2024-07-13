@@ -34,22 +34,22 @@ however, after a point -- the game gets really easy, so it's no longer a challen
 ![NEPTUNE DIFFICULTY](img/neptune-difficulty.png)
 
 this is a setting I use. it's admiral difficulty, PLUS
-- 100% increased construction costs
+- **100% increased construction costs**
 	- everything costs double from captain difficulty and 75% more than admiral.
 	- this requires careful planning to ensure machines are close enough that belt costs aren't enormous 
-- 50% increased maintenance consumption
+- **50% increased maintenance consumption**
 	- 25% more than admiral.
 	- extra e1 requirement for maintenance makes cp2 production a lot more difficult in the earlygame, and a quick transition to steel for mechanical parts.
-- 30% increased fuel consumption
+- **30% increased fuel consumption**
 	- 15% more than admiral.
 	- requires staying with blue trucks for a long while, and transporting materials with belts instead of trucks
-- 40% increased settlement consumption
+- **40% increased settlement consumption**
 	- 20% more than admiral.
 	- more food consumption is a real problem, and requires a quick transition to bread once wheat is researched.
-- 100% pollution impact
+- **100% pollution impact**
 	- 75% more than admiral.
-	- the increased pollution effects requires immediate research of wastewater treatment, exhaust scrubbing, and hydrogen vehicles, otherwise everyone is sick and dying all the time (clinic will prolly help, but it's so far down the research tree, it's easier just to not pollute)
-- 80% increased starting resources
+	- this is the most difficult aspect, I think. the increased pollution requires immediate research of wastewater treatment, exhaust scrubbing, and hydrogen vehicles -- otherwise everyone is sick and dying all the time (clinic will prolly help, but it's so far down the research tree, it's easier just to *not pollute*)
+- *80% increased starting resources*
 	- without the extra resources I don't think it's possible, cause everything is so much more expensive (though, it also makes it a bit easier because the starting oil reserve is a bit bigger)
-- no dumping anything except rock into the ocean
-	- I want to live on a clean island, so waste has to be dumped on the ground in earlygame, then cleaned up and burnt later. no building piers out of waste either because (IRL) waste decomposes and isn't a stable foundation to build on... loose rock isn't either, but we'll pretend it's held together with cement :)
+- **no dumping anything into the sea** -- *except rock*
+	- I want to live on a clean island, so waste has to be dumped on the ground in earlygame, then cleaned up and burnt later. no building piers out of waste either because (IRL) waste decomposes and isn't a stable foundation to build on... true: loose rock isn't either, but we'll pretend it's held together with cement :)
