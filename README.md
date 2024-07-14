@@ -53,3 +53,6 @@ this is a setting I use. it's admiral difficulty, PLUS
 	- without the extra resources I don't think it's possible, cause everything is so much more expensive (though, it also makes it a bit easier because the starting oil reserve is a bit bigger)
 - **no dumping anything into the sea** -- *except rock*
 	- I want to live on a clean island, so waste has to be dumped on the ground in earlygame, then cleaned up and burnt later. no building piers out of waste either because (IRL) waste decomposes and isn't a stable foundation to build on... true: loose rock isn't either, but we'll pretend it's held together with cement :)
+- **no nuclear**
+	- the only solution is hydrogen
+- sustainable island

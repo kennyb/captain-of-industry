@@ -22,3 +22,5 @@ finally, I'd like to mention that the UI for the customize difficulty is a bit s
   Dry
 ```
 it just feels easier and less resistance to change or look at the other values if I can drag a slider (with color feedback) vs 2 clicks per option using a dropdown
+
+### construction parts rework

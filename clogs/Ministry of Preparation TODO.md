@@ -47,6 +47,9 @@
 
 ----
 
+set pumps and dumps to no trucks
+set mixer and sulfur bucket to higher priority (and import)
+
 trees for woodcutter
 chlorene notification
 import iron bucket
