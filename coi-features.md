@@ -20,6 +20,8 @@
 - ability to drag trucks around in vehicle depot queue
 - ability to drag ports around in the materials sorter (the dropdown doesn't provide much info where the port is, and doesn't update until I deselect & reselect)
 - when a digger is picking next designation, pick the nearest one *based on path length*, cause sometimes they really drive quite a distance to go when sometimes an available designation is right next to them
+- ability to set minimum amount of fuel for excs in fuel station
+	- instead of waiting until they're empty, it'd be nice if the fuel truck would go out to refill them as soon as there's a full truck worth of fuel he can take or minimum fuel tank is reached.
 
 
 ### bigger things
