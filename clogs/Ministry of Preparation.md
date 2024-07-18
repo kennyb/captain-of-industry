@@ -161,3 +161,8 @@ anyway, I decided that I'm gonna go to the weed store and buy some stuff. I'll p
 ### 2024-07-15 12:07 - start back (0216-11-05)
 
 I ran into a weird thing where for some reason concrete just wasn't getting imported to the box. it had been doing it just fine all the way until I upgraded from 2 to 4 kilns. I'm not exactly sure why that is, but not having slabs totally grinds production to a halt. so I'm going back to a time before that was a problem. I might go back further because now that I think about it, I may have too much naptha and either need to build a tank (like I did previously) or get the water and power system going quicker.
+
+### 2024-07-16 19:13 - no wood again
+
+I thought I had enough wood, and it's pretty close (I was getting a few trees every once in a while (probably at the rate of one of the tree planter going)) but I still ran out of wood. last time I think I ran out of wood in 0234 (if I remember right), but this time I ran out 0226 (8 years earlier!!). what happened is I actually scaled so fast (it was easy just to copy and improve the bp from the last run cause all the design phase is done) that my extra production capabilities (this time I have up to 3 asm3s running to make cp2) are using the wood faster then I can produce it.
+I'm not actually sure what to do here because when I restarted last time I dilly-dallied a little bit (maybe a 1y or so) before getting adding the planter, but honestly not that much. my target was to have 3 planters at full speed by 0214 -- and (checking now...) it looks like I've got 4 going at full speed at 0213 -- which would be perfect if I were to run out of wood at 0233...
