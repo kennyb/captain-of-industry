@@ -59,3 +59,15 @@ move one copper to iron temporarily
 delete all surface designations
 copper belt
 upgrade boiler/fg pipe
+
+----
+
+release truck assigned to box
+fix fg balancer priorities
+rubber sulfur belt
+turn off slag creation and truck import (also put alarm on bucket)
+set woodchipper to have same priority as bucket
+
+set new forestry towers to be built
+upgrade swater pipe and output pipes
+(later) add steam overflow 
