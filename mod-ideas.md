@@ -23,3 +23,10 @@ cause then I could try out what I think would be the most optimal setup:
 there may be more optimal setups, and depending on the island, it could be different (for example on armageddon insane start, there's an top and bottom level and I'd like to minimise traffic going up and down if possible).
 
 the next thing this project could work on is the pathfinder. right now it calculates distances on "as the crow flies" -- when I'd want it to look based on the real path distance. to do that, I think a sort of fractal graph where each node is a vicinity -- and the connector between each node is the real distance. now if I want to look at the real path, the edge is split into more and more precise blocks. so let's say that I want to go from one node to another and they're 1k tiles between the two -- so the edge between these graphs is split into 512, then say 64 (not sure the increment), then 8, then 1 tile wide block sections of passable/impassable blocks along the path. that way, a truck can know that there is a path in the 128 block section, thern when getting there, it goes to the 16 block section and then to find the nodes to navigate around buildings, but then to get around pillars and stuff, it'll load up the 1 tile block sections to get around pillars. the advantage of this is that pathfinding only needs to be calculated once, and can be invalidated easily on the nodes that have terrain/building modifications to them.
+
+### forestry improvements
+
+when clicking on a forestry tower, I'd like to know
+1. how many active designations there are with planted and unplanted
+2. how many trees are at the target age (and if possible, for each 100%,80%,60%,40% category how many trees are that age, so I can do simple maths to calculate how much wood I have available)
+3. total amount of wood available to be cut
