@@ -23,4 +23,20 @@ finally, I'd like to mention that the UI for the customize difficulty is a bit s
 ```
 it just feels easier and less resistance to change or look at the other values if I can drag a slider (with color feedback) vs 2 clicks per option using a dropdown
 
+### 2024-07-20 22:34 - extra-difficlty
+
+last week you asked about extra difficulty. I didn't have anything that came to mind immediately, and I said I'd get back to you next week. I decided not to join the stream today cause it's too much mental chaos for me (I get frustrated seeing you totally missing things on your island cause you're talking and stuff, and the stress of watching you play so poorly (I wish I could play for you)) really is quite difficult for me to watch -- so I'll watch the replay later this week and write down my ideas here (I'll dm you the link to this on discord, which I joined like you suggested). here are the ideas that came to me during the week:
+1. all buildings have cp upkeep to them (kinda like maintenance but for structural integrity).
+	- this will require another maintenance-like building that I have to constantly feed construction parts and other things too (for example desals also need steel). it'll be like an ore sorter where I can assign the product to the port and import the required maintenance parts.
+2. belts cost maintenance
+	- I have no idea how belts don't require maintenance, but they're in constant need of inspection (in fact, [there's a guy in the #engineering-irl channel that maintains belts](https://discord.com/channels/803508556325584926/959307549864243230/1218352564979105902)). he says that [replacing belts (over repairing them) is the cheapest way to maintain them](https://discord.com/channels/803508556325584926/959307549864243230/1218353879377379348).
+3. different sized trees
+	- it's really convenient that all trees have exactly 20 wood to them -- and that makes sense from a treee farm perspective, because I can think of 20 wood as the average wood size (cause the harvesters are harvesting about 1-4 trees per month -- so I consider these round numbers to be something like monthly averages). instead, perhaps for the existing trees on the island, these could come in various sizes. I'd probably have ([mentioned in coi-features](/coi-features.md#stuff-that-would-make-the-game-feel-better)) each tree's amount calculated from the game seed and the entity id) to give a variable amount of wood for the intitial trees
+4. waste decomposes and caves in
+	- I purposefully limit myself to [only dumping rock in the sea](/README.md#neptune-difficulty) because in real-life, waste decomposes into dirt leaving empty spaces behind which eventually caves in, making it extremely unsuitable to build on. I cringe watching JD build his dock out of trash and slag, because that'd fall down in a pretty short period of time.
+5. certain materials are unsuitable to build on (like sand)
+	- when building a building/machine on an unstable surface (one that slides or moves around a lot), it'll need a foundation build first, which will need extra concrete slabs or cement and rock to be added to the cost of the building to be built on that surface (and maybe a graphic of the ground being leveled and foundation being put in before the building blue boxes start)
+6. terrain seed
+	- I've been able to excavate certain walls next to buildings and sometimes the RNG is good and no buildings get hurt, and then other times, the terrain deforms in a way which totally wrecks everything. if I excavate a block from an angle, it should fall the same way *every single time* (no exceptions), which not only increases difficulty, but it makes the game become 100% predictable, which means that a replay file can be made of my actions, and if I replay the file, it'll come out with the same result every time. inotherwords, if the angle crashes on my building, I want to reload the save and try a different angle at it instead of praying to RNjesus.
+
 ### construction parts rework
