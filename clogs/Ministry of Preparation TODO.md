@@ -70,4 +70,10 @@ set woodchipper to have same priority as bucket
 
 set new forestry towers to be built
 upgrade swater pipe and output pipes
-(later) add steam overflow 
+(later) add steam overflow
+move iron/copper mining towers closer to the sorters
+remove unused balancers for naptha and swater and crude
+remove fg boiler balancer
+add exhaust scrubbing balancer
+scrub exhaust for top smelters and science boiler
+stray fertilizer pipe

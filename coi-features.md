@@ -42,3 +42,6 @@
 
 ### stuff that would make the game feel better
 - trees with a range of wood yield (each tree's amount determined probably by the game seed and the entity id) small/palm trees: 3-7, medium trees: 7-15, large trees: 10-20 (enabled with a difficulty setting?)
+
+### QOL (only ui)
+- ability to see at-a-glance how long each entity has been idle for (maybe place a colored glow and a numeric value next to each building/vehicle accordingly)
