@@ -77,3 +77,26 @@ remove fg boiler balancer
 add exhaust scrubbing balancer
 scrub exhaust for top smelters and science boiler
 stray fertilizer pipe
+
+
+### convert to hydrogen 8
+fix upper copper exhaust pipe
+- research house 3
+- turn on 2 desals
+- turn off 1-2 farms from saplings
+- electronics for cp2
+- set large areas for forestry towers
+- crack to naptha instead of diesel
+convert cargo ship to use hydrogen
+	use diesel as H tank 
+convert h-oil to H
+	build 2nd naptha cracker
+	- upgrade h pipe next to boiler
+	upgrade naptha cracking FG out pipe
+	- set priority on reformers
+build trading dock
+
+
+move sulfur/acid out of back and use front one
+upgrade one house to 3
+	- get more water first
