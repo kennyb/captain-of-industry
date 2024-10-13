@@ -97,6 +97,19 @@ convert h-oil to H
 build trading dock
 
 
-move sulfur/acid out of back and use front one
-upgrade one house to 3
+- LE1&2 + fert + glass indicators
+- POOP COMPOST
+- upgrade FG pipe all the way through
+- fix tree planter over near c-office
+- upgrade:
+	- steel box
+	- mp1 box
+- add another bakery & set farms to 100-110%
+- turn on plenty of food for more unity
+- boost coal boiler so diesel doesn't slow down
+- move sulfur/acid out of back and use front one
+	- delete old oxygen pipe over steel box
+- upgrade one house to 3
 	- get more water first
+- convert FG boiler to hydrogen + add reformers
+- cut cargo ship off from h-oil & switch to diesel/H
