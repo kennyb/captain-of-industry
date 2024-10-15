@@ -1,0 +1,8 @@
+{
+  "name": "import-coi-saves",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "klaw": "^4.1.0",
+    "simple-git": "^3.27.0"
+  }
+}

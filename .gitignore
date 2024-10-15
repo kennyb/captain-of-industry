@@ -1,2 +1,9 @@
 # ods files when open create a lock
 .~lock*
+
+# bun scripts
+node_modules
+bun.lockb
+
+# temporary
+# /scripts
