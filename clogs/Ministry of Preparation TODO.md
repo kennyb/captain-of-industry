@@ -80,37 +80,40 @@ stray fertilizer pipe
 
 
 ### convert to hydrogen 8
-pause one of the diesel generators
-fix upper copper exhaust pipe
-- research house 3
-- turn on 2 desals
-- turn off 1-2 farms from saplings
+- pause one of the diesel generators
+- fix upper copper exhaust pipe
+- set farms to 3x saplings @110%, rest @100%
+- turn on 2 coal desals
+- upper mixer to produce slag
+- setup compost dump next to bakery
+- remove top front planter to use new expanded area
 - electronics for cp2
 - set large areas for forestry towers
 - crack to naptha instead of diesel
-convert cargo ship to use hydrogen
-	use diesel as H tank
-convert h-oil to H
-	build 2nd naptha cracker
-	- upgrade h pipe next to boiler
-	- set priority on reformers
-build trading dock
-
-
-build pickup instead of planter
+- fix tree planter over near c-office
+- build pickup instead of planter
 - LE1&2 + fert + glass indicators
 - POOP COMPOST + SAPLINGS
 - stop deconst (use unity)
-upgrade FG pipe all the way through
-- fix tree planter over near c-office
-upgrade:
-	steel box
-	mp1 box
-add another bakery & set farms to 100-110%
+
+### convert to hydrogen 9
+
+- upgrade FG pipe all the way through
+- convert h-oil to H
+	- build 2nd naptha cracker
+	- upgrade h pipe next to boiler
+	- set priority on reformers
+- convert FG boiler to hydrogen + add reformers
+- build trading dock
+- research house 3
+- add another desal (to replace the coal ones)
+- convert cargo ship to use hydrogen
+	use diesel as H tank
+- add another bakery
 - turn on plenty of food for more unity
-boost coal boiler so diesel doesn't slow down
+- upgrade:
+	- steel box
+	- mp1 box
+- move saplings box over where there's a bunch of dirt
 upgrade 2 houses to house 3
 	get more water first
-convert FG boiler to hydrogen + add reformers
-
-move saplings box over where there's a bunch of dirt then make like 4-6 boxes (so that storage is easier)
