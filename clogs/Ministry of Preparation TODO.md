@@ -143,3 +143,7 @@ turn on a diesel generator
 diesel overflow into cracking unit
 	add sw stripper & turn off NH3 production
 	upgrade naptha pipes
+
+### try scrubbing bottom exhaust 2
+
+LPS balancer priority
