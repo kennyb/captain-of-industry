@@ -143,7 +143,14 @@ turn on a diesel generator
 diesel overflow into cracking unit
 	add sw stripper & turn off NH3 production
 	upgrade naptha pipes
-
-### try scrubbing bottom exhaust 2
-
 LPS balancer priority
+
+### done for now 7
+
+- upgrade slag belts
+- flip copper smelter exhaust pipes
+move excs over so they dig UP the ramp (instead of theirselves into a hole)
+turn on cargo ship fuel saver (does way more than vehicle fuel saver)
+expand limestone designations
+
+sw for slag contract
