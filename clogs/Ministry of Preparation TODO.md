@@ -115,5 +115,31 @@ stray fertilizer pipe
 	- steel box
 	- mp1 box
 - move saplings box over where there's a bunch of dirt
+
+### time to add more amonia
+
+- turn off an iron smelter
+- set mining towers above off of dumping rock
+- set storage boxs to not import (keep them from returning them from the shipyard)
+turn off growth pause
 upgrade 2 houses to house 3
 	get more water first
+
+### saving for coal contract 9
+
+- build saplings belt
+- set compost to empty into slag mountain (set to empty)
+- top limestone flat at 37
+- flip cp2 e1 belt
+- remove a few designations from front (don't break pipe)
+saplings boxes names (MOAR SAPLINGS!!!, NOT ENOUGH SAPLINGS, TOO MANY SAPLINGS)
+- add a few more forestry designations on side of copper mountain
+- consolidate all forestrey into one tower
+
+### saving for coal contract 9
+
+turn off ununsed sw pump
+turn on a diesel generator
+diesel overflow into cracking unit
+	add sw stripper & turn off NH3 production
+	upgrade naptha pipes
