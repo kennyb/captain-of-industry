@@ -78,7 +78,6 @@ add exhaust scrubbing balancer
 scrub exhaust for top smelters and science boiler
 stray fertilizer pipe
 
-
 ### convert to hydrogen 8
 - pause one of the diesel generators
 - fix upper copper exhaust pipe
@@ -97,7 +96,6 @@ stray fertilizer pipe
 - stop deconst (use unity)
 
 ### convert to hydrogen 9
-
 - upgrade FG pipe all the way through
 - convert h-oil to H
 	- build 2nd naptha cracker
@@ -117,7 +115,6 @@ stray fertilizer pipe
 - move saplings box over where there's a bunch of dirt
 
 ### time to add more amonia
-
 - turn off an iron smelter
 - set mining towers above off of dumping rock
 - set storage boxs to not import (keep them from returning them from the shipyard)
@@ -126,7 +123,6 @@ upgrade 2 houses to house 3
 	get more water first
 
 ### saving for coal contract 9
-
 - build saplings belt
 - set compost to empty into slag mountain (set to empty)
 - top limestone flat at 37
@@ -137,7 +133,6 @@ saplings boxes names (MOAR SAPLINGS!!!, NOT ENOUGH SAPLINGS, TOO MANY SAPLINGS)
 - consolidate all forestrey into one tower
 
 ### saving for coal contract 9
-
 turn off ununsed sw pump
 turn on a diesel generator
 diesel overflow into cracking unit
@@ -146,7 +141,6 @@ diesel overflow into cracking unit
 LPS balancer priority
 
 ### done for now 7
-
 - upgrade slag belts
 - flip copper smelter exhaust pipes
 - move excs over so they dig UP the ramp (instead of theirselves into a hole)
