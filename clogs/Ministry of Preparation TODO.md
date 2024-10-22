@@ -149,8 +149,13 @@ LPS balancer priority
 
 - upgrade slag belts
 - flip copper smelter exhaust pipes
-move excs over so they dig UP the ramp (instead of theirselves into a hole)
-turn on cargo ship fuel saver (does way more than vehicle fuel saver)
-expand limestone designations
+- move excs over so they dig UP the ramp (instead of theirselves into a hole)
+- expand limestone designations
+- turn on cargo ship fuel saver (does way more than vehicle fuel saver)
+add another ore sorter
+move gw pump over
+
+buy more glass
 
 sw for slag contract
+transition into bricks and send all slag out
