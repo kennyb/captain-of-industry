@@ -1,4 +1,4 @@
-# captain's log - ministry of preparation (MOP)
+# Ministry of Preparation (MOP) - Captain's Log
 
 ### 2024-06-03 09:53 - the polution problem
 
