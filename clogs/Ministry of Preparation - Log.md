@@ -220,3 +220,7 @@ the only problem with that plan is, I need to move production downstairs to the 
 
 I'm gonna try starting back again before building the coal contract. I redid the kilns so that I've got space on the coast for 4x pumps and dumps. I also thought ahead this time and gave myself 4 tiles to get pipes in and out of there (wish I had've done that originally; it's a total mess in there). I feel really good about the new setup. I also disovered that I can fit 4 desal units in front of the diesel generators and run a t3 pipe from the 4 unused pumps over where the basic desals were. that's 312 water up from 156 in the previous attempt. I feel like these improvements are good enough to go back to 0249, but not good enough to start over again from 0224. I'm also going to redo the diesel cracking location because I think with those basic desals out, I can get them in a bit tighter and leaving myself 4-6 tiles for pipes (especially once I delete the h-oil storage). it's so nice having that much unity to play with -- can't wait.
 [23:52] OK, going to bed
+
+### 2024-10-24 21:55 - good	on unity now (0249-02-13 -> 0253-03-16)
+
+I went back and redid it by putting in the 4x desal units, and man does it work great. I've got too much food and water at this point, plus with the extra water and food, I'm making ~2.5U/mo, which makes the game now a whole lot easier. I'm gonna start building like crazy now that I have so much unity. all I have to say, is wow, I guess the pops like clean water :)
