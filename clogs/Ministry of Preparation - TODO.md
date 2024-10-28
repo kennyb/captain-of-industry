@@ -115,42 +115,51 @@ stray fertilizer pipe
 	- mp1 box
 - move saplings box over where there's a bunch of dirt
 
-### time to add more amonia
-- turn off an iron smelter
-- set mining towers above off of dumping rock
-- set storage boxs to not import (keep them from returning them from the shipyard)
-turn off growth pause
-upgrade 2 houses to house 3
-	get more water first
-
-### saving for coal contract 9
-- build saplings belt
-- set compost to empty into slag mountain (set to empty)
-- top limestone flat at 37
-- flip cp2 e1 belt
-- remove a few designations from front (don't break pipe)
-saplings boxes names (MOAR SAPLINGS!!!, NOT ENOUGH SAPLINGS, TOO MANY SAPLINGS)
+### more slag mountain
+- prioritise limestone
 - add a few more forestry designations on side of copper mountain
 - consolidate all forestrey into one tower
+- top limestone flat at 37
+- turn off ununsed cw pump
+- set compost to empty into slag mountain (set to empty)
+- LPS balancer priority
+- slow down concrete/cement use by turning lowering cp1 production to 1-2
+- turn off an iron smelter
+- set upstairs mining towers off of dumping rock
+- set storage boxs to not import (keep them from returning them from the shipyard)
+farm water priority prevents smelters from running all the time (prioritise LPS desals)
 
-### saving for coal contract 9
-turn off ununsed sw pump
-turn on a diesel generator
+### try coal contract
+- research large storage
+- reroute goat pipe
+- export compost
+- upgrade 2 houses to house 3
 diesel overflow into cracking unit
 	add sw stripper & turn off NH3 production
 	upgrade naptha pipes
-LPS balancer priority
 
-### done for now 7
+### try coal contract 8
 - upgrade slag belts
-- flip copper smelter exhaust pipes
-- move excs over so they dig UP the ramp (instead of theirselves into a hole)
-- expand limestone designations
-- turn on cargo ship fuel saver (does way more than vehicle fuel saver)
-add another ore sorter
-move gw pump over
+- move el1 over and put mp1 there instead
+- saplings boxes names (MOAR SAPLINGS!!!, NOT ENOUGH SAPLINGS, TOO MANY SAPLINGS)
 
+### dig ramp
+exc: 5 iron, 3 copper
+
+
+### FUTURE
+move sci asm over and add another air separator
+process dirt into bricks to reduce load on cement
+move excs over so they dig UP the ramp (instead of theirselves into a hole)
+turn on cargo ship fuel saver (does way more than vehicle fuel saver)
+add another ore sorter
+upgrade smelters
+scrub exhaust on bottom
+
+
+expand limestone designations
 buy more glass
+move gw pump over
 
 sw for slag contract
 transition into bricks and send all slag out
