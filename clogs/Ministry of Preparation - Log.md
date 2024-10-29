@@ -235,3 +235,7 @@ yesterday and last night I made huge progess. I managed to get copper moved over
 - scrub bottom exhaust
 - upgrade smelters
 - add second crude imort ship
+
+### 2024-10-29 13:49 - try again (0280-05-27)
+
+I didn't play very seriously yesterday. I managed to get some of the bottom exhaust scrubbed, but I have to run a pipe from the refinery to the scrubber, and there's a lot of spaghetti in the way. I'm planning on trying to clean it up today (need to get to a stable state and save up a bunch of unity though). I'd also potentially like to run a coal boiler until I have the refinery setup to produce all the hydrogen that I need (also it's a good backup source of steam). anyway, what if I moved all of the steam over to where the coal import is, run the full water and power setup, and then the rest off of the coal import? minus the limestone cost, each round-trip coal import is ~950 coal positive. that also takes a lot of load off of crude import right now, which is going to become my next problem. I'm hoping that the two oil rigs will give me about ~100y of time to get the VP2 for crude contract going. I just did the maths and it works out pretty well, so I'm gonna work on scrubbing the pier exhaust and moving the boilers over there.

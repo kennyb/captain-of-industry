@@ -148,28 +148,25 @@ farm water priority prevents smelters from running all the time (prioritise LPS 
 - move sci asm over and add another air separator
 
 ### goat belting
+expand limestone designations
 scrub bottom exhaust
 - add 3rd steel smelter
 - add sw stripper & turn off NH3 production
-- move ore sorters
-use more hydrogen -- add another boiler to power and water
+move ore sorters
 - upgrade naptha pipes
+redo pipe spaghetti in front of oil import
+move diesel to naptha cracking out of the way
 
-
+### move steam
+setup 4 h-boilers and 4 coal boilers over near coal contract (scrubbed) for the final form of that refinery
 
 
 ### FUTURE
+quartz import
+	limestone import
 add sour water tank
-move diesel to naptha more out of the way
 upgrade smelters
 upgrade rubber box
-process dirt into bricks to reduce load on cement
-turn on cargo ship fuel saver (does way more than vehicle fuel saver)
-scrub exhaust on bottom
-
-
-expand limestone designations
-buy more glass
-
 sw for slag contract
-transition into bricks and send all slag out
+	process dirt into bricks to reduce load on cement
+	transition into using only bricks (until dirt runs out) and send all slag out
