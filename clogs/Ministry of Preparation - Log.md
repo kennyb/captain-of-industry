@@ -224,3 +224,14 @@ I'm gonna try starting back again before building the coal contract. I redid the
 ### 2024-10-24 21:55 - good	on unity now (0249-02-13 -> 0253-03-16)
 
 I went back and redid it by putting in the 4x desal units, and man does it work great. I've got too much food and water at this point, plus with the extra water and food, I'm making ~2.5U/mo, which makes the game now a whole lot easier. I'm gonna start building like crazy now that I have so much unity. all I have to say, is wow, I guess the pops like clean water :)
+
+### 2024-10-28 10:58 - glass and scrubbing
+
+yesterday and last night I made huge progess. I managed to get copper moved over and the old copper converted to an iron smelter, the coal contract going, such that I'm not even mining coal anymore (I came out slightly ahead after about 13x coal kilns) -- which means I can fill in the coal hole if I want (prolly with dirt). then now, the next obvious step is going to be to scrub that exhaust. then I've got to save about 2k cp3 to upgrade the smelters (I'll get all of the crushers pre-setup so it's mainly just pressing the upgrade button). finally, I think I'm gonna try extending the ramp all the way over to the iron mine, and then ramping down from main production down to that ramp (that way I can easily run a coal belt up to production). simultaneous to this, I think I need to dig heavily into the side of the mountain on the side of the pier so that limestone starts to fall down (either that or import limestone) -- to save some truck traffic. or goat belts :) goat belts seems like a good start for now. 
+
+- move some ore sorters
+- bricks
+- quartz impport & glass production
+- scrub bottom exhaust
+- upgrade smelters
+- add second crude imort ship

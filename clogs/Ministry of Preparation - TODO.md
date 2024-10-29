@@ -134,9 +134,7 @@ farm water priority prevents smelters from running all the time (prioritise LPS 
 - reroute goat pipe
 - export compost
 - upgrade 2 houses to house 3
-diesel overflow into cracking unit
-	add sw stripper & turn off NH3 production
-	upgrade naptha pipes
+- diesel overflow into cracking unit
 
 ### try coal contract 8
 - upgrade slag belts
@@ -144,22 +142,34 @@ diesel overflow into cracking unit
 - saplings boxes names (MOAR SAPLINGS!!!, NOT ENOUGH SAPLINGS, TOO MANY SAPLINGS)
 
 ### dig ramp
-exc: 5 iron, 3 copper
+- move excs over so they dig UP the ramp (instead of theirselves into a hole)
+- move gw pump over
+- exc: 5 iron, 3 copper
+- move sci asm over and add another air separator
+
+### goat belting
+scrub bottom exhaust
+- add 3rd steel smelter
+- add sw stripper & turn off NH3 production
+- move ore sorters
+use more hydrogen -- add another boiler to power and water
+- upgrade naptha pipes
+
+
 
 
 ### FUTURE
-move sci asm over and add another air separator
-process dirt into bricks to reduce load on cement
-move excs over so they dig UP the ramp (instead of theirselves into a hole)
-turn on cargo ship fuel saver (does way more than vehicle fuel saver)
-add another ore sorter
+add sour water tank
+move diesel to naptha more out of the way
 upgrade smelters
+upgrade rubber box
+process dirt into bricks to reduce load on cement
+turn on cargo ship fuel saver (does way more than vehicle fuel saver)
 scrub exhaust on bottom
 
 
 expand limestone designations
 buy more glass
-move gw pump over
 
 sw for slag contract
 transition into bricks and send all slag out
