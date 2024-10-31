@@ -148,23 +148,48 @@ farm water priority prevents smelters from running all the time (prioritise LPS 
 - move sci asm over and add another air separator
 
 ### goat belting
-expand limestone designations
-scrub bottom exhaust
 - add 3rd steel smelter
-- add sw stripper & turn off NH3 production
-move ore sorters
+- add sws & turn off NH3 production
 - upgrade naptha pipes
+
+### 4th refinery module
+- expand limestone designations
++ fix sws pipe
++ add another saplings box up top
++ set fert to 130% until NH3 goes down
++ scrubber pipes
++ add a coal boiler next to scrubbers
++ set limestone bucket to import only half the way
++ turn off truck import/export on water tanks
+
++ move 2 excs up to iron
++ set mining tower exports to ore sorters
++ change ramp diggers to go down to 23 from the top and also up and over only to 23
+? merge boiler and scrubber pipes
+
+scrub bottom exhaust
+move ore sorters
 redo pipe spaghetti in front of oil import
-move diesel to naptha cracking out of the way
+	fert2 pipe to run in front of sw strippers
+	nh3 out pipe over the mess
+	n2 pipe over the mess
+	remove lift in front of limestone
+	move slope so cl2 pipe can go under fert1 pipe
+	set sws water out to connect to water pipe where fert2 pipe was
+move diesel to naptha cracking and redo pipe spaghetti in front of pumps
+	make bus space 3 wide + 1 pumps + 1 crackers
+	put sw pipe at 1 and hps at 2, naptha at 0
+add 3rd chem plant and upgrade one of the mixers (boost one of the chem plants )
 
 ### move steam
++ upgrade cwp pipes
 setup 4 h-boilers and 4 coal boilers over near coal contract (scrubbed) for the final form of that refinery
 
 
 ### FUTURE
 quartz import
 	limestone import
-add sour water tank
+add sw tank
 upgrade smelters
 upgrade rubber box
 sw for slag contract
