@@ -164,11 +164,13 @@ farm water priority prevents smelters from running all the time (prioritise LPS 
 
 + move 2 excs up to iron
 + set mining tower exports to ore sorters
-+ change ramp diggers to go down to 23 from the top and also up and over only to 23
++ change ramp diggers to go up to +23 and start working on the middle shelf (the idea here is to flatten the entire left side to +23, putting all forestry there and belting stuff up to to production)
++ upgrade output pipe to 200 (unfortunately 21x3 > 60)
 ? merge boiler and scrubber pipes
 
-scrub bottom exhaust
 move ore sorters
+
+### redo refinery spaghetti
 redo pipe spaghetti in front of oil import
 	fert2 pipe to run in front of sw strippers
 	nh3 out pipe over the mess
@@ -185,12 +187,20 @@ add 3rd chem plant and upgrade one of the mixers (boost one of the chem plants )
 + upgrade cwp pipes
 setup 4 h-boilers and 4 coal boilers over near coal contract (scrubbed) for the final form of that refinery
 
+### scrub bottom exhaust
+
 
 ### FUTURE
 quartz import
 	limestone import
 add sw tank
-upgrade smelters
+
+
+### upgrade smelters
+run water pipe from over by copper and delete pipe that goes over the belts
+move slag bucket over and put limestone bucket next to it
+run limestone belt on top of copper belt
+
 upgrade rubber box
 sw for slag contract
 	process dirt into bricks to reduce load on cement
